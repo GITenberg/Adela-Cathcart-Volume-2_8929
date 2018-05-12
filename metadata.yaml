@@ -1,5 +1,8 @@
 _repo: Adela-Cathcart-Volume-2_8929
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -11,6 +14,8 @@ creator:
 description: Adelia Cathcart has an illness of the spirit --perhaps an illness of
   the soul. No one --not her father, nor neighbors, not even the curate of her parish
   nor his doctor brother can scry the secret of her malady.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8929#Adela-Cathcart-Volume-2
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
